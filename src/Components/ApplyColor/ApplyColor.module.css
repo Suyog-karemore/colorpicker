@@ -1,0 +1,14 @@
+.displycont {
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.disply {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
